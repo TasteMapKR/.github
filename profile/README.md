@@ -23,11 +23,10 @@
 | 로그인     | 사용자 인증 기능으로 OAuth2.0을 이용한 소셜로그인 네이버, 구글을 지원 |
 | 메인    | 주요 기능이나 홈 화면을 표시하는 기능으로, 애플리케이션의 중심적인 역할을 합니다. |
 
-# 이미지
 | 기능   | 이미지                                      |
 |--------|---------------------------------------------|
-| 코스   | ![Course](./img/Course.jpeg)                 |
-| 생성   | ![Create](./img/Create.jpeg)                 |
-| 평가   | ![Feedback](./img/Feedback.jpeg)             |
-| 로그인 | ![Login](./img/Login.jpeg)                  |
-| 메인   | ![Main](./img/Main.jpeg)                    |
+| 코스   | <img src="../img/Course.jpeg" width="600" alt="Course"> |
+| 생성   | <img src="../img/Create.jpeg" width="600" alt="Create"> |
+| 평가   | <img src="../img/Feedback.jpeg" width="600" alt="Feedback"> |
+| 로그인 | <img src="../img/Login.jpeg" width="600" alt="Login"> |
+| 메인   | <img src="../img/Main.jpeg" width="600" alt="Main"> |
