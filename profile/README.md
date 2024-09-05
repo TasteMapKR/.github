@@ -23,13 +23,12 @@
 - JWT를 프론트엔드단에서 어떻게 처리하는가에 대한 고민
 - JWT에 대한 민감 정보를 어떤 형식으로 저장하는가에 대한 것
 - QuaryDSL을 통한 조회 최적화 
-- S3의 적절한 활용 
+- S3의 적절한 활용
+- Git Actions + Docker을 활용한 CI
+- EC2 + Docker Compose를 활용한 CD
 <br>
 
-## 추후 예정
-- EC2를 활용한 배포
-- RDS를 이용한 MySQL 사용
-- GitHub Action을 통한 CI/CD 구축
+
 
   <br>
   
